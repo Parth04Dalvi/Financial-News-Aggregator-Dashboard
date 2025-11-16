@@ -1,4 +1,4 @@
-# FinSense: AI-Powered Financial News Aggregator 📈
+FinSense: AI-Powered Financial News Aggregator 📈
 
 Overview
 
@@ -6,21 +6,18 @@ FinSense is a modern, full-stack application designed to help users quickly gaug
 
 This project showcases expertise in Full-Stack Development (React/Next.js), Data Visualization (Recharts), Cloud Persistence (Firebase Firestore), and Predictive Analytics/NLP. It provides a clean, responsive dashboard for tracking market mood and saving articles for later review.
 
-Key Features
+🚀 Project Demo (Animation Placeholder)
 
-The application is built around data processing, visualization, and user experience:
+Showcase the app in action! This GIF should demonstrate the key features: the sentiment chart updating, filtering headlines by sentiment, and saving/unsaving an article.
 
-Simulated NLP Sentiment Analysis: Each incoming headline is instantly analyzed and assigned a sentiment (Positive, Negative, or Neutral) and a corresponding score (0.0 to 1.0).
+<!--
+INSTRUCTIONS:
+1. Create a short (10-15 second) GIF of the application running.
+2. Upload the GIF to your GitHub repository (e.g., in an 'assets' folder).
+3. Replace the placeholder text below with your GIF URL.
+-->
 
-Interactive Sentiment Trend Chart: A line chart visualizes the Average Daily Market Sentiment Score, allowing users to quickly identify shifts in overall market mood over time.
-
-Sentiment and Keyword Filtering: Users can filter the headline list to view only Positive, Negative, or Neutral articles, and use a dedicated search bar to find articles by specific keywords or stock tickers.
-
-Persistent Article Saving: Users can save important articles to their profile. This functionality is backed by Firebase Firestore, ensuring data persistence across sessions.
-
-Modern and Responsive UI: Built using React and styled with Tailwind CSS for a fast, mobile-friendly, and professional user interface.
-
-Technologies Used
+🛠️ Tech Stack & Badges
 
 Category
 
@@ -64,6 +61,24 @@ JavaScript / React Hooks
 
 Managing application state and implementing filtering/search logic.
 
+Quick Overview Badges
+
+Use these badges at the top of your README for instant technology recognition:
+
+Key Features
+
+The application is built around data processing, visualization, and user experience:
+
+Simulated NLP Sentiment Analysis: Each incoming headline is instantly analyzed and assigned a sentiment (Positive, Negative, or Neutral) and a corresponding score (0.0 to 1.0).
+
+Interactive Sentiment Trend Chart: A line chart visualizes the Average Daily Market Sentiment Score, allowing users to quickly identify shifts in overall market mood over time.
+
+Sentiment and Keyword Filtering: Users can filter the headline list to view only Positive, Negative, or Neutral articles, and use a dedicated search bar to find articles by specific keywords or stock tickers.
+
+Persistent Article Saving: Users can save important articles to their profile. This functionality is backed by Firebase Firestore, ensuring data persistence across sessions.
+
+Modern and Responsive UI: Built using React and styled with Tailwind CSS for a fast, mobile-friendly, and professional user interface.
+
 Application Architecture (Simulated)
 
 The application component (FinancialNewsAggregator.jsx) is designed to integrate into a modern JavaScript stack (like Next.js or a standalone React app).
@@ -85,5 +100,3 @@ Dependencies: This project relies on standard React/Firebase packages: firebase/
 Local Setup: Integrate the FinancialNewsAggregator.jsx component into a React project structure where Tailwind CSS is configured.
 
 Firebase Configuration: The application requires environment variables for Firebase configuration (__app_id, __firebase_config, __initial_auth_token) to connect to the Firestore instance.
-
-I hope this README helps you showcase the project's complexity and value on your GitHub profile! Let me know if you need any other supporting documents.

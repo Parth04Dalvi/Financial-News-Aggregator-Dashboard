@@ -1,5 +1,9 @@
 FinSense: AI-Powered Financial News Aggregator 📈
 
+
+
+<img width="458" height="656" alt="image" src="https://github.com/user-attachments/assets/6cd67858-ef1d-464a-acbc-d1cec90169dd" />
+
 Overview
 
 FinSense is a modern, full-stack application designed to help users quickly gauge market sentiment by aggregating financial headlines and applying real-time, simulated Natural Language Processing (NLP) to them.

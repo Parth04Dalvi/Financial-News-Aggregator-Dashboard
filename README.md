@@ -14,61 +14,6 @@ This project showcases expertise in Full-Stack Development (React/Next.js), Data
 
 Showcase the app in action! This GIF should demonstrate the key features: the sentiment chart updating, filtering headlines by sentiment, and saving/unsaving an article.
 
-<!--
-INSTRUCTIONS:
-1. Create a short (10-15 second) GIF of the application running.
-2. Upload the GIF to your GitHub repository (e.g., in an 'assets' folder).
-3. Replace the placeholder text below with your GIF URL.
--->
-
-🛠️ Tech Stack & Badges
-
-Category
-
-Technology
-
-Purpose in Project
-
-Frontend
-
-React (JSX)
-
-Building the component-based user interface.
-
-Styling
-
-Tailwind CSS
-
-Utility-first CSS framework for responsive design.
-
-Data Visualization
-
-Recharts
-
-Generating the interactive Market Sentiment Trend Chart.
-
-Persistence
-
-Firebase Firestore
-
-Real-time, NoSQL database for saving user articles and preferences.
-
-Authentication
-
-Firebase Auth
-
-Handling user sign-in (via anonymous/custom token) for personalization.
-
-Logic
-
-JavaScript / React Hooks
-
-Managing application state and implementing filtering/search logic.
-
-Quick Overview Badges
-
-Use these badges at the top of your README for instant technology recognition:
-
 Key Features
 
 The application is built around data processing, visualization, and user experience:

@@ -1,4 +1,4 @@
-FinSense: AI-Powered Financial News Aggregator 📈
+# FinSense: AI-Powered Financial News Aggregator 📈
 
 
 
